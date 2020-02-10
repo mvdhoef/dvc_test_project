@@ -1,7 +1,0 @@
-outs:
-- path: builds
-  metric: false
-  cache: true
-  persist: false
-  md5: 99e81182de0ac7a5e8b9ab6af3aae6f8.dir
-md5: 3ea330b6b645da7f660239a3eb69c928
