@@ -1,0 +1,4 @@
+['remote "plt"']
+url = s3://prolucid-gitlab-largefiles/dvc_test_project
+[core]
+remote = plt
